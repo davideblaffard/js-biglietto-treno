@@ -25,5 +25,4 @@ Dopo trasformate il vostro linguaggio formale in js. */
     }else{
         console.log("il costo del biglietto è")
 
-//da vedere come arrotondare cifra in output
-
+//da vedere come arrotondare cifra in output */
