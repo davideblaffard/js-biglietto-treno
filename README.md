@@ -1,12 +1,14 @@
 # js-biglietto-treno
 
 1) un prompt che chieda di inserire un numero all'utente
-1.1) un controllo che verifichi che il valore inserito sia un numero
-1.2) console.log() che stampi il costo del biglietto(numero in input*0.21)
+2) un controllo che verifichi che il valore inserito sia un numero, altrimenti inserire nuovamente il valore
+3) console.log() che stampi il costo del biglietto(numero in input*0.21)
 
-2) un prompt che chieda all'utente di inserire un valore compreso tra 0 e 99
-2.1) un controllo che verifichi che il valore sia valido
-2.2) un if che consenta di applicare uno sconto
+4) un prompt che chieda all'utente di inserire un valore compreso tra 0 e 99
+   
+5) un controllo che verifichi che il valore sia valido, altrimenti inserire nuovamente il valore
+
+6) un if che consenta di applicare uno sconto
     if eta<18 {
         sconto 20% 
         console.log("il costo del biglietto è")
